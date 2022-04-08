@@ -1,6 +1,6 @@
-# Pustak-Boy
+# BookBandhu
 
-A new Flutter application.
+An E-commerce appilication for buying, selling and renting books.
 
 ## Getting Started
 
